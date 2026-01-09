@@ -23,3 +23,19 @@ Similarly payoff from a short position is $ K - S_T $
 == Spot contracts
 agreement to buy or sell an asset today. 
 
+= Futures contracts
+Unlike forward contracts, future contracts are normally traded on an exchange. 
+
+= options
+Traded both on exchanges and otc markets. 
+== put options
+Gives holder rights to sell as the _exercise price_ or _strike price_. The date in contact is known as _expiration date_ or _maturity_. 
+== call options
+Gives the holder right to sell the underlying asset by a certain date for a certain price. 
+
+In exchange trade equity option marker, one contract is usually an agreement to buy or sell 100 shares. 
+It should be noted that an option gives holder the right to do something. The holder does not have to exercise this right. This is how options are different from futures. 
+
+= TYPES OF TRADERS
+== Hedgers
+Hedgers reduce risks with forward contracts and options. 
