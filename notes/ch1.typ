@@ -38,4 +38,6 @@ It should be noted that an option gives holder the right to do something. The ho
 
 = TYPES OF TRADERS
 == Hedgers
-Hedgers reduce risks with forward contracts and options. 
+Hedgers reduce risks with forward contracts and options. They use them as a type of inseurance
+
+== speculators
